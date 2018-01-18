@@ -9,6 +9,7 @@ ChatBot with Angular 5 & DialogFlow [demo](http://smartbot-mlabouardy.s3-website
 ## Run
 
 ```
+npm install
 ng serve
 ```
 
@@ -17,4 +18,3 @@ ng serve
 ## Further help
 
 [Chatbot with Angular 5 & DialogFlow](http://www.blog.labouardy.com/chatbot-with-angular-5-dialogflow/)
-# ChatBot

@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('chatbot App', () => {
+describe('angulardemo2 App', () => {
   let page: AppPage;
 
   beforeEach(() => {
